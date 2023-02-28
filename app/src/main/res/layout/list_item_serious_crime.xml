@@ -21,5 +21,11 @@
         android:id="@+id/crime_type"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Crime Type" />
+        android:text="Crime Type : Serious Crime" />
+
+    <Button
+        android:id="@+id/call_police_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Police"></Button>
 </LinearLayout>
